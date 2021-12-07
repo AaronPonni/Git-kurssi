@@ -1,3 +1,4 @@
 - Penne pasta
 - Tomaattikastike
 - Kaurakerma
+- Pakaste vegekana
