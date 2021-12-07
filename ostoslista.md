@@ -2,3 +2,4 @@
 - Tomaattikastike
 - Kaurakerma
 - Pakaste vegekana
+- kulta katriina
